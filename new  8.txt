@@ -1,0 +1,155 @@
+github account
+username : Ranjith9014
+passwd : 9014Ranjith
+mailid : ranjithkumar9014@gmail.com
+Repository name: Ranjithgit
+https://github.com/Ranjith9014/Ranjithgit
+
+gSb=0zap
+/home/tools/bin/sudo -i -u genadmin
+genadmin/p1ayc@t
+hrberry-Ranjith@9014
+/irb/bce/build/rb/
+/irb/
+ranjith.gajula.9014@gmail.com
+ranjith.gajula.9014@gmail.com
+Ranjith9014
+NAMO9014
+6721---b
+RANJITH_7
+srivenkatesha123
+http://www.tutorialspoint.com/unix_commands/command.htm---importent commands list.
+
+Ranjith9014-payinfo
+
+for full build
+/irb/bce/admin/config/releases_for_cb2
+update this file with RB_8.0.4.29
+and then run copy_build script
+
+copy_build_objects_svn_ranjith.sh -p RB-sqa9.0.1.linux.oracle11g -u pavu0613 -c RC13.4
+
+copy_build_objects_svn_ranjith.sh -p RB-sqa9.0.1.linux.oracle11g -u pavu0613 -c RC13
+
+====================================================================================
+auto_manual_builds_svn.sh -t RB_8.0.5 -f releases_to_build_RB_8.0.5-----link build
+===================================================================================
+nohup build_project_partial_us -p RB -s sqa -o oracle12c -r 8.0.4.663.linux.oracle12c -m 8.0 -d 20170717_day4 -t all &
+nohup build_project_5_4_us -p GENEVA -s sqa -o oracle10g -r 5.4.38.14.itanium.oracle10g -m 5.4 -d 20170525_day1 -t all &
+build_project_extn -p TAP3 -o oracle11g -r 8.18.2.aix.oracle11g -m 8.18 -d 20170306_day -t all -c RB_9.0.4 &
+nohup build_project_test -p RB -s test -o oracle11g -r 9.0.2.linux.oracle11g -m 9.0 -d 20151026 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 9.0.3.linux.oracle11g -m 9.0 -d 20160628_day4 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 9.0.3.linux.oracle12c -m 9.0 -d 20160628_day3 -t all &
+nohup build_project_test -p RB -s sqa -o oracle11g -r 8.0.5.solaris.oracle11g -m 8.0 -d 20160314_day4 -t all &
+nohup build_project_test -p RB -s sqa -o oracle11g -r 8.0.5.aix.oracle11g -m 8.0 -d 20160314_day2 -t all &
+nohup build_project_test -p RB -s sqa -o oracle11g -r 8.0.5.linux.oracle11g -m 8.0 -d 20160314_day2 -t all &
+nohup build_project_test -p RB -s sqa -o oracle11g -r 9.0.4.solaris.oracle12c -m 9.0 -d 20170316 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 8.0.3.59.solaris.oracle12c -m 8.0 -d 20160613_day6 -t all &
+nohup build_project_svn_us -p RB -s test -o oracle12c -r 9.0.6.linux.oracle12c -m 9.0 -d 20170911_day -t all &
+nohup build_project_test_us -p RB -s test -o oracle12c -r 9.0.5.linux.oracle12c -m 9.0 -d 20170914_day2 -t all &
+============================================================================
+nohup build_project_rb_3.0 -p RB -s sqa -o oracle10g -r 3.0.27.172.itanium.oracle10g -m 3.0 -d 20160809_day6 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.196.linux.oracle11g -m 8.0 -d 20160531_day4 -t all &
+nohup build_project_partial -p RB -s sqa -o oracle12c -r 8.0.4.631.aix.oracle12c -m 8.0 -d 20170628_day1 -t all &
+build_project_partial -p RB -s sqa -o oracle12c -r 8.0.4.617.linux.oracle12c -m 8.0 -d 20170619 -t all
+RB, 9.0.4.8, sqa, linux, oracle11g, camvldev02, auto
+
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 9.0.4.11.linux.oracle11g -m 9.0 -d 20170426_day2 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.97.linux.oracle11g -m 8.0 -d 20160229_day1 -t all &
+nohup /SAN1/alder/svnwa1/raga1015/build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.260.linux.oracle11g -m 8.0 -d 20160801_day2 -t all &
+nohup /SAN1/alder/svnwa1/raga1015/build_project_svn -p RB -s sqa -o oracle11g -r 5.3.8.172.linux.oracle11g -m 5.3 -d 20160802_day3 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.164.linux.oracle11g -m 8.0 -d 20160801_day2 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.151.linux.oracle11g -m 8.0 -d 20160607_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.3.60.linux.oracle11g -m 8.0 -d 20160726_day4 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.282.linux.oracle11g -m 8.0 -d 20160812_day8 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.281.linux.oracle11g -m 8.0 -d 20160812_day7 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 6.1.6.277.linux.oracle11g -m 6.1 -d 20170315 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 6.1.6.277.linux.oracle11g -m 6.1 -d 20170315 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.221.aix.oracle11g -m 8.0 -d 20160623_day4 -t all &19791952
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 5.3.8.248.linux.oracle11g -m 5.3 -d 20170308_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 8.0.4.183.linux.oracle12c -m 8.0 -d 20160516_day2 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 5.0.5.333.itanium.oracle11g -m 5.0 -d 20160308_day -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 7.0.3.298.linux.oracle11g -m 7.0 -d 20151218 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 8.0.4.114.linux.oracle12c -m 8.0 -d 20160322_day3 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 7.0.2.48.aix.oracle11g -m 7.0 -d 20160311_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.5.1.itanium.oracle11g -m 8.0 -d 20160617_day4 -t all &
+
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 8.0.4.117.linux.oracle12c -m 8.0 -d 20160316_day5 -t all &
+nohup /SAN1/alder/svnwa1/raga1015/build_project_svn -p RB -s sqa -o oracle12c -r 8.0.4.262.linux.oracle12c -m 8.0 -d 20160810_day4 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 6.1.6.234.linux.oracle11g -m 6.1 -d 20160627_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 6.0.5.127.aix.oracle11g -m 6.0 -d 20170529_day2 -t all &
+nohup /SAN1/alder/svnwa1/raga1015/build_project_svn -p RB -s sqa -o oracle11g -r 5.3.8.172.linux.oracle11g -m 5.3 -d 20160728_day3 -t all &
+
+621G    systems
+1.2G    tmp_mz
+catalina-ant.jar
+catalina.jar
+ w meanin svn
+
+
+nohup build_project_test -p RB -s sqa -o oracle11g -r 8.0.5.linux.oracle11g -m 8.0 -d 20160316_day1 -t all &
+
+nohup build_project_rb_3.0 -p RB -s sqa -o oracle10g -r 3.0.30.66.linux.oracle10g -m 3.0 -d 20160602_day7 -t all &
+
+archive_geneva_svn -s sqa -r 9.0.1 -p RB -t INSTALL -v /irb/candidate/rc/rb/9.0/RB_9.0.1.RC13/full -u sdavulur -i -o linux:11g----for full build
+
+export_geneva_svn -s sqa -r 5.3.5.154 -p RB -t PATCH -s sqa -e /irb/candidate/patch/rb/5.3/RB_5.3.5.154.RC1 -u pavu0613----
+
+to checking the build we need to come to this module and check
+
+RB_8.0.4.39.linux.oracle11g/
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 5.3.5.165.linux.oracle11g -m 5.3 -d 201707013_day6 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 9.0.3.linux.oracle11g -m 9.0 -d 20160813_day -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 8.0.4.650.linux.oracle11g -m 8.0 -d 20170712_day3 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 8.0.4.645.aix.oracle11g -m 8.0 -d 201707010_day -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 8.0.5.24.itanium.oracle11g -m 8.0 -d 20170710_day3 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 8.0.4.solaris.oracle11g -m 8.0 -d 20170511 -t all -u &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 8.0.4.solaris.oracle11g -m 8.0 -d 20170629_sol -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 8.0.4.aix.oracle11g -m 8.0 -d 20170621_aix -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle12c -r 8.0.4.646.linux.oracle12c -m 8.0 -d 20170713_day3 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle12c -r 9.0.4.aix.oracle12c -m 9.0 -d 20170630_aix700 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 9.0.3.1.linux.oracle11g -m 9.0 -d 20170511_day2 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 7.0.3.360.suselinux.oracle11g -m 7.0 -d 20170511_day3 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 9.0.3.1.linux.oracle11g -m 9.0 -d 20170511_day2 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 9.0.3.itanium.oracle11g -m 9.0 -d 20160813_day -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 9.0.3.itanium.oracle12c -m 9.0 -d 20160813_day -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 9.0.3.aix.oracle11g -m 9.0 -d 20160813_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 9.0.3.aix.oracle12c -m 9.0 -d 20160813_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle12c -r 9.0.3.solaris.oracle12c -m 9.0 -d 20160813_day1 -t all &
+nohup build_project_svn -p RB -s sqa -o oracle11g -r 9.0.3.solaris.oracle11g -m 9.0 -d 20160813_day1 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle12c -r 9.0.5.linux.oracle12c -m 9.0 -d 20170828_day1 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle12c -r 9.0.4.38.linux.oracle12c -m 9.0 -d 20170704_day1 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle12c -r 9.0.4.102.linux.oracle12c -m 9.0 -d 20170830_day7 -t all &
+nohup build_project_svn_us -p RB -s sqa -o oracle11g -r 5.1.6.500.linux.oracle11g -m 5.1 -d 20171013_day1 -t all &
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle10g -r 4.3.7.249.aix.oracle10g -m 4.3 -d 20171020_day1 -t all -u TT_437aP@DPRE006 & 
+nohup build_project_svn -p RB -s sqa -o oracle10g -r 3.0.30.76.solaris.oracle10g -m 3.0 -d 20171020_day1 -t all -u sqa3_0_30_76_s_10g@USDAS007 & 
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle11g -r 9.0.3.5.linux.oracle11g -m 9.0 -d 20170828_sngraga -t all -u S_VZW_9_0_3_x_l_11g@DPRE001 &
+
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle11g -r 9.0.3.5.linux.oracle11g -m 9.0 -d 20170828_sngraga -t all -u S_VZW_903Xl@DPRE001 &
+
+499
+
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle10g -r 4.3.7.249.aix.oracle10g -m 4.3 -d 20171020_day1 -t all -u TT_437aP@DPRE006 & 
+Hi,s
+nohup build_project_partial_us -p RB -s sqa -o oracle11g -r 9.0.3.27.solaris.oracle11g -m 9.0 -d 20170829_day5 -t all &
+All platforms 11g and 12c builds are started by the Updated revision number 17223.
+nohup build_project_test_us -p RB -s sqa -o oracle11g -r 9.0.3.27.solaris.oracle11g -m 9.0 -d 20170829_day5 -t all &
+nohup build_project_svn_12c2_test -p RB -s sqa -o oracle12c -r 9.0.3.itanium.oracle12c -m 9.0 -d 20160811_day3 -t all &
+nohup build_project_svn_12c2_test -p RB -s sqa -o oracle12c -r 9.0.3.aix.oracle12c -m 9.0 -d 20160811_day3 -t all &
+nohup build_project_extn_us -p VI -o oracle12c -r 9.0.2.4.linux.oracle12c -m 9.0 -d 20170704_day4 -t all -c RB_9.0.4.38 &
+
+
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle11g -r 5.1.6.500.linux.oracle11g -m 5.1 -d 20171013_day1 -t all -u VM_516Xl@DPRE003 &
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle11g -r 5.0.5.500.linux.oracle11g -m 5.0 -d 11.1.0.7_sng -t all -u PL_505500Xl@DPRE005 &
+nohup build_project_svn_us -p RB -s sqa -o oracle12c -r 9.0.4.130.linux.oracle12c -m 9.0 -d 20171012_day2 -t all &
+
+nohup build_project_svn_sng_db -p RB -s sqa -o oracle11g -r 8.0.4.162.linux.oracle12c -m 8.0 -d 12.1.0.1_sng -t all -u ST_804162Xl@DPRE004 &
+nohup build_project_svn_us -p RB -s test -o oracle12c -r 9.0.6.linux.oracle12c -m 9.0 -d 20171012_day3 -t all &
+nohup build_project_test_us -p RB -s test -o oracle12c -r 9.0.6.linux.oracle12c -m 9.0 -d 20171013_day4 -t all &
+declare 
+u
+Dmitry
+
+
+https://psup.netcracker.com/browse/RBMRECORE-926--for 5.1.7 release notes.
+
